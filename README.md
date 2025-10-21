@@ -8,8 +8,7 @@ Developed as part of a comprehensive data analytics portfolio project, it aims t
 ## 🌍 Background
 
 The global adoption of Electric Vehicles (EVs) has accelerated due to increasing awareness of environmental sustainability, energy efficiency, and the transition to renewable energy. Automotive manufacturers are introducing diverse EV models with varying prices and features to attract consumers, making EV sales data highly valuable for analysis.
-Despite positive growth trends, EV adoption still faces regional disparities influenced by factors such as charging infrastructure, consumer purchasing power, and preferences for features like battery capacity, price discounts, and fast-charging availability.  
-This analysis utilizes the [Electric Vehicle Sales and Adoption Dataset](https://www.kaggle.com/datasets/rameezmeerasahib/electric-vehicle-ev-sales-and-adoption) from Kaggle to identify trends, understand adoption patterns, and provide strategic insights for manufacturers and policymakers.
+Despite positive growth trends, EV adoption still faces regional disparities influenced by factors such as charging infrastructure, consumer purchasing power, and preferences for features like battery capacity, price discounts, and fast-charging availability. This analysis utilizes the [Electric Vehicle Sales and Adoption Dataset](https://www.kaggle.com/datasets/rameezmeerasahib/electric-vehicle-ev-sales-and-adoption) from Kaggle to identify trends, understand adoption patterns, and provide strategic insights for manufacturers and policymakers.
 
 ---
 
@@ -75,11 +74,11 @@ This analysis utilizes the [Electric Vehicle Sales and Adoption Dataset](https:/
 
 ## 📈 Key Insights
 
-- ✅ EV sales show a strong upward trend throughout 2023.
-- ✅ Certain brands dominate sales volume, while others perform regionally.
-- ✅ Regions with fast-charging infrastructure show higher adoption rates.
-- ✅ Discounts have a statistically significant impact on EV unit sales.
-- ✅ Tableau dashboard provides an interactive visualization for further exploration.
+✅ EV sales show a strong upward trend throughout 2023.
+✅ Certain brands dominate sales volume, while others perform regionally.
+✅ Regions with fast-charging infrastructure show higher adoption rates.
+✅ Discounts have a statistically significant impact on EV unit sales.
+✅ Tableau dashboard provides an interactive visualization for further exploration.
 
 ---
 
