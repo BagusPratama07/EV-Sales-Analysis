@@ -74,7 +74,7 @@ Despite positive growth trends, EV adoption still faces regional disparities inf
 
 ## 📈 Key Insights
 
-✅ EV sales show a strong upward trend throughout 2023. 
+✅ EV sales show a strong upward trend throughout 2023.    
 ✅ Certain brands dominate sales volume, while others perform regionally.  
 ✅ Regions with fast-charging infrastructure show higher adoption rates.  
 ✅ Discounts have a statistically significant impact on EV unit sales.  
